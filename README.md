@@ -1,2 +1,5 @@
-Repositório do novo gerenciador de frotas FleetTracker\
-Desenvolvido pela XPTO\
+# O que é
+Repositório do novo gerenciador de frotas **FleetTracker**
+
+# Quem desenvolve
+XPTO
